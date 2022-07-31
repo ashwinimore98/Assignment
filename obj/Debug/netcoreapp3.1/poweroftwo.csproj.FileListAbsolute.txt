@@ -1,0 +1,14 @@
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\bin\Debug\netcoreapp3.1\poweroftwo.exe
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\bin\Debug\netcoreapp3.1\poweroftwo.deps.json
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\bin\Debug\netcoreapp3.1\poweroftwo.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\bin\Debug\netcoreapp3.1\poweroftwo.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\bin\Debug\netcoreapp3.1\poweroftwo.dll
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\bin\Debug\netcoreapp3.1\poweroftwo.pdb
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.dll
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.pdb
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.genruntimeconfig.cache
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\poweroftwo\obj\Debug\netcoreapp3.1\poweroftwo.csproj.AssemblyReference.cache
