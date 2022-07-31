@@ -1,0 +1,14 @@
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.csproj.AssemblyReference.cache
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\bin\Debug\netcoreapp3.1\NEW.exe
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\bin\Debug\netcoreapp3.1\NEW.deps.json
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\bin\Debug\netcoreapp3.1\NEW.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\bin\Debug\netcoreapp3.1\NEW.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\bin\Debug\netcoreapp3.1\NEW.dll
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\bin\Debug\netcoreapp3.1\NEW.pdb
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.dll
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.pdb
+C:\Users\morea\OneDrive\Desktop\priyu\basic core\basic core\NEW\obj\Debug\netcoreapp3.1\NEW.genruntimeconfig.cache
