@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReverseNumber
+namespace swapping
 
 {
    
@@ -12,18 +12,16 @@ namespace ReverseNumber
         static void Main(string[] args)
 
         {
-            int num = 1234;
-            int result = 0;
-            int rem;
+            int a = 10;
+            int b = 20;
+            int temp;
+           Console.WriteLine("Before swapping value of a={0},b={1}", a, b);
 
-            while(num!=0)
-            {
-                rem = num % 10;
-                result = result *10 + rem;
-                num = num / 10;
+            temp = a;
+            a = b;
+            b = temp;
 
-            }
-            Console.WriteLine(result);
+            Console.WriteLine("After swapping value of a={0},b={1} " , a, b);
             Console.ReadLine();
 
 
