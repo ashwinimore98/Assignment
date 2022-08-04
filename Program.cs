@@ -1,27 +1,34 @@
 ﻿using System;
 
-namespace Fibonacci_series
+namespace ReverseNumber
+
 {
    
     class Program
     {
+       
       
        
         static void Main(string[] args)
 
         {
-            int a = 0;
-            int b = 1;
-            int c;
+            int num = 1234;
+            int result = 0;
+            int rem;
+
+            while(num!=0)
+            {
+                rem = num % 10;
+                result = result *10 + rem;
+                num = num / 10;
+
+            }
+            Console.WriteLine(result);
+            Console.ReadLine();
+
+
 
             
-           
-           Console.WriteLine(a);
-            Console.WriteLine(b);
-
-            c = a + b;
-            Console.WriteLine(c);
-            Console.ReadLine();
              
          
             
