@@ -1,0 +1,13 @@
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\bin\Debug\netcoreapp3.1\hormonic.exe
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\bin\Debug\netcoreapp3.1\hormonic.deps.json
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\bin\Debug\netcoreapp3.1\hormonic.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\bin\Debug\netcoreapp3.1\hormonic.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\bin\Debug\netcoreapp3.1\hormonic.dll
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\bin\Debug\netcoreapp3.1\hormonic.pdb
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.dll
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.pdb
+C:\Users\morea\OneDrive\Desktop\ASH\hormonic\obj\Debug\netcoreapp3.1\hormonic.genruntimeconfig.cache
