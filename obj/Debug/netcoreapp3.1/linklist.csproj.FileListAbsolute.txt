@@ -1,0 +1,5 @@
+C:\Users\morea\OneDrive\Desktop\ASH\linklist\obj\Debug\netcoreapp3.1\linklist.csproj.AssemblyReference.cache
+C:\Users\morea\OneDrive\Desktop\ASH\linklist\obj\Debug\netcoreapp3.1\linklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\ASH\linklist\obj\Debug\netcoreapp3.1\linklist.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\ASH\linklist\obj\Debug\netcoreapp3.1\linklist.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\ASH\linklist\obj\Debug\netcoreapp3.1\linklist.csproj.CoreCompileInputs.cache
